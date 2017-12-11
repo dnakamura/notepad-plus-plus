@@ -548,6 +548,7 @@ BEGIN
         MENUITEM "Encode in UTF-8-BOM",               IDM_FORMAT_UTF_8
         MENUITEM "Encode in UCS-2 BE BOM",            IDM_FORMAT_UCS_2BE
         MENUITEM "Encode in UCS-2 LE BOM",            IDM_FORMAT_UCS_2LE
+        MENUITEM "Encode in EBCDIC",                  IDM_FORMAT_EBCDIC
         POPUP "Character sets"
         BEGIN
             POPUP "Arabic"
